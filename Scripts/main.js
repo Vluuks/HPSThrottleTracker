@@ -5,6 +5,10 @@ $('document').ready(function() {
 
     // Manage DOM element visibilities.
     $('#error').hide();
+    
+    var databaseRef = firebase.database();
+    console.log(databaseRef);
+    console.log(config);
 
 });
 
@@ -13,6 +17,17 @@ $('document').ready(function() {
 function processFoals(){
     
     console.log("yo ho test");
+    
+    var testObj = { date: "01-01-2017", 
+                    amount:  "500",
+                    userName: "Renske1000"
+                  };
+                  
+    var db = firebase.database();
+    db.ref('data/' + testObj.date).set({
+        userName: testObj.userName,
+        amount: testObj.amount
+    });
     
 }
 
