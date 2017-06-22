@@ -11,3 +11,9 @@ h2{
 	text-transform: uppercase;
 	color: #000000;
 }
+#error{
+	margin-bottom: 20px;
+	padding: 10px;
+	color: #D8000C;
+	background-color: #FFBABA;
+}
