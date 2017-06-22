@@ -23,10 +23,20 @@ function processFoals(){
                     userName: "Renske1000"
                   };
                   
+    var name = $("#name").val().trim();
+    if(name == ""){
+        name = "Niet opgegeven";
+    }
+    var date = $("#date").val().trim();
+    var time = "";
+    var amount = $("#amount").val().trim();
+    
+                   
     var db = firebase.database();
-    db.ref('data/' + testObj.date).set({
-        userName: testObj.userName,
-        amount: testObj.amount
+    db.ref('data/' + "plannedFoals").set({
+        date: date,
+        userName: name,
+        amount: amount
     });
     
 }
