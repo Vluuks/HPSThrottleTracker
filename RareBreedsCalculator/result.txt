@@ -1,0 +1,37 @@
+Karabajr    [b]Hengsten:[/b] 90 (32%)    [b]Merries:[/b] 157 (56%)    [b]Totaal:[/b] 247
+Calabrese    [b]Hengsten:[/b] 100 (34%)    [b]Merries:[/b] 152 (51%)    [b]Totaal:[/b] 252
+Kisber Felver    [b]Hengsten:[/b] 90 (31%)    [b]Merries:[/b] 162 (55%)    [b]Totaal:[/b] 252
+Pindos    [b]Hengsten:[/b] 98 (33%)    [b]Merries:[/b] 159 (53%)    [b]Totaal:[/b] 257
+Tsjersk    [b]Hengsten:[/b] 89 (31%)    [b]Merries:[/b] 168 (59%)    [b]Totaal:[/b] 257
+Muräkozi    [b]Hengsten:[/b] 91 (31%)    [b]Merries:[/b] 169 (57%)    [b]Totaal:[/b] 260
+Oost-Bulgaar    [b]Hengsten:[/b] 94 (32%)    [b]Merries:[/b] 167 (56%)    [b]Totaal:[/b] 261
+Jutlander    [b]Hengsten:[/b] 100 (33%)    [b]Merries:[/b] 162 (54%)    [b]Totaal:[/b] 262
+Sokolsky    [b]Hengsten:[/b] 98 (32%)    [b]Merries:[/b] 166 (54%)    [b]Totaal:[/b] 264
+Tennessee Walking Pony    [b]Hengsten:[/b] 91 (31%)    [b]Merries:[/b] 174 (59%)    [b]Totaal:[/b] 265
+Malapolski    [b]Hengsten:[/b] 89 (28%)    [b]Merries:[/b] 177 (57%)    [b]Totaal:[/b] 266
+Karabagh    [b]Hengsten:[/b] 101 (35%)    [b]Merries:[/b] 167 (57%)    [b]Totaal:[/b] 268
+Lewitzer    [b]Hengsten:[/b] 107 (39%)    [b]Merries:[/b] 164 (60%)    [b]Totaal:[/b] 271
+Tibetaanse pony    [b]Hengsten:[/b] 89 (30%)    [b]Merries:[/b] 182 (61%)    [b]Totaal:[/b] 271
+Trotteur    [b]Hengsten:[/b] 80 (26%)    [b]Merries:[/b] 191 (62%)    [b]Totaal:[/b] 271
+Galiceno    [b]Hengsten:[/b] 95 (31%)    [b]Merries:[/b] 178 (58%)    [b]Totaal:[/b] 273
+Iomud    [b]Hengsten:[/b] 85 (27%)    [b]Merries:[/b] 188 (60%)    [b]Totaal:[/b] 273
+Timor    [b]Hengsten:[/b] 85 (26%)    [b]Merries:[/b] 188 (58%)    [b]Totaal:[/b] 273
+Norrlander    [b]Hengsten:[/b] 81 (26%)    [b]Merries:[/b] 195 (62%)    [b]Totaal:[/b] 276
+Suffolk Punch    [b]Hengsten:[/b] 100 (32%)    [b]Merries:[/b] 178 (57%)    [b]Totaal:[/b] 278
+Nigeriaan    [b]Hengsten:[/b] 99 (32%)    [b]Merries:[/b] 180 (58%)    [b]Totaal:[/b] 279
+Peneia    [b]Hengsten:[/b] 93 (30%)    [b]Merries:[/b] 186 (59%)    [b]Totaal:[/b] 279
+Murghese    [b]Hengsten:[/b] 101 (32%)    [b]Merries:[/b] 181 (58%)    [b]Totaal:[/b] 282
+Missouri Fox Trotting Horse    [b]Hengsten:[/b] 106 (34%)    [b]Merries:[/b] 177 (56%)    [b]Totaal:[/b] 283
+Batak    [b]Hengsten:[/b] 104 (32%)    [b]Merries:[/b] 183 (57%)    [b]Totaal:[/b] 287
+Morab    [b]Hengsten:[/b] 102 (31%)    [b]Merries:[/b] 186 (57%)    [b]Totaal:[/b] 288
+Sorraia    [b]Hengsten:[/b] 113 (36%)    [b]Merries:[/b] 175 (56%)    [b]Totaal:[/b] 288
+Galiciër en Asturcon    [b]Hengsten:[/b] 103 (32%)    [b]Merries:[/b] 186 (57%)    [b]Totaal:[/b] 289
+Letlander    [b]Hengsten:[/b] 113 (33%)    [b]Merries:[/b] 176 (51%)    [b]Totaal:[/b] 289
+American Standardbred    [b]Hengsten:[/b] 101 (30%)    [b]Merries:[/b] 189 (57%)    [b]Totaal:[/b] 290
+Huzule    [b]Hengsten:[/b] 105 (32%)    [b]Merries:[/b] 186 (57%)    [b]Totaal:[/b] 291
+Cayuse    [b]Hengsten:[/b] 93 (28%)    [b]Merries:[/b] 200 (61%)    [b]Totaal:[/b] 293
+Poitevin    [b]Hengsten:[/b] 100 (31%)    [b]Merries:[/b] 196 (60%)    [b]Totaal:[/b] 296
+Tarpan    [b]Hengsten:[/b] 107 (32%)    [b]Merries:[/b] 189 (56%)    [b]Totaal:[/b] 296
+Singlefooter    [b]Hengsten:[/b] 101 (30%)    [b]Merries:[/b] 198 (59%)    [b]Totaal:[/b] 299
+
+ [b]Aantal rassen:[/b] 35
